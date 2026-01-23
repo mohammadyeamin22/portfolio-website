@@ -102,7 +102,7 @@ border-radius:10px;
 /* Social CSS */
 .social_section{
   width:100%;
-  height:260px;
+  height:350px;
   background-color:#003D62;
 }
 /* Work CSS */
@@ -135,3 +135,16 @@ border-radius:10px;
   padding-right:30px;
 }
 /* Social CSS */
+/* Footer CSS */
+.footer_section{
+  background:#012941;
+  width:100%;
+  height:70px;
+}
+.footer_section h3{
+  color:white;
+    text-align:center;
+    padding-top:25px;
+    font-size:20px;
+}
+/* Footer CSS */
