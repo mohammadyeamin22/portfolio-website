@@ -40,6 +40,8 @@ font-size:19px;
 .introduction{
   display:flex;
   background-color:#003D62;
+  width:100%;
+  height:650px;
 }
 /* Introduction img  */
 .introduction_img{
@@ -68,7 +70,7 @@ font-size:20px;
 .projects{
  width:100%;
  height:150px;
- background-color:#003D62; 
+ background-color:#003251; 
 }
 .projects h2{
   text-align:center;
