@@ -57,7 +57,7 @@ padding-top:50px;
 }
 /* Introduction text */
 .introduction_text{
-padding:120px;
+padding:230px 120px;
 }
 .special_text{
   color:white;
@@ -85,12 +85,10 @@ font-size:20px;
 .all_project{
   display:grid;
 grid-template-columns:1fr 1fr 1fr;
-column-gap:0px;
 row-gap:30px;
   width:100%;
 background-color:#003251;
-padding-top:70px;
-padding-bottom:70px;
+padding:70px 0px;
 }
 /* Project img */
 .github_project{
