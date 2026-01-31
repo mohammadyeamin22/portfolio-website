@@ -1,0 +1,202 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+/* Navbar media css */
+  .navbar{
+width:575px;
+  }
+  .navbar_logo h1{
+  padding-left:50px;
+  }
+  .navbar_link{
+    margin-left:70px;
+  }
+  .a_link a{
+    padding-left:20px;
+  }
+  /* Introduction media css */
+  .introduction{
+    width:575px;
+    display:block;
+  }
+  .introduction_text{
+    background-color:#003D62;
+    width:334px;
+    padding:80px 120px;
+  }
+  .special_text{
+  font-size:30px;
+}
+.not_special{
+font-size:20px;
+}
+/* Project media css */
+.projects{
+  width:575px;
+  margin-top:150px;
+}
+/* All projects media css */
+.all_project{
+  width:575px;
+background-color:#003251;
+  grid-template-columns:1fr;
+padding:70px 0px;
+}
+.github_project{
+  width:60%;
+  padding-left:135px;
+}
+}
+/* Small devices (landscape phones, 576px and up) */
+@media(min-width:576px) and (max-width:767.98px){
+  /* Navbar media css */
+  .navbar{
+width:767px;
+  }
+  .navbar_logo h1{
+  padding-left:50px;
+  }
+  .navbar_link{
+    margin-left:150px;
+  }
+  .a_link a{
+    padding-left:45px;
+  }
+  /* Introduction media css */
+  .introduction{
+    width:766px;
+    display:block;
+  }
+  .introduction_img{
+padding-left:200px;
+padding-top:50px;
+  }
+  .introduction_text{
+    background-color:#003D62;
+    padding:100px 0px;
+  }
+  .special_text{
+  font-size:40px;
+}
+.not_special{
+font-size:30px;
+}
+/* Project media css */
+.projects{
+  width:767px;
+  margin-top:150px;
+}
+/* All projects media css */
+.all_project{
+  width:767px;
+background-color:#003251;
+  grid-template-columns:1fr 1fr;
+padding:70px 0px;
+}
+.github_project{
+  width:60%;
+  padding-left:45px;
+}
+}
+/* Medium devices (tablets, 768px and up) */
+@media(min-width:768px) and (max-width:991.98px){
+   /* Navbar media css */
+  .navbar{
+width:991px;
+  }
+  .navbar_logo h1{
+  padding-left:50px;
+  }
+  .navbar_link{
+    margin-left:400px;
+  }
+  .a_link a{
+    padding-left:45px;
+  }
+  /* Introduction media css */
+  .introduction{
+    width:991px;
+  }
+  .introduction_img{
+padding-left:100px;
+padding-top:50px;
+  }
+  .introduction_text{
+    padding:230px 30px;
+  }
+  .special_text{
+  font-size:40px;
+}
+.not_special{
+font-size:30px;
+}
+/* Project media css */
+.projects{
+  width:991px;
+}
+/* All projects media css */
+.all_project{
+  width:991px;
+background-color:#003251;
+  grid-template-columns:1fr 1fr fr;
+padding:70px 0px;
+}
+.github_project{
+  width:50%;
+  padding-left:10px;
+}
+}
+/* Large devices (desktops, 992px and up) */
+@media(min-width:992px) and (max-width:1199.98px){
+ /* Navbar media css */
+  .navbar{
+width:1199px;
+  }
+  .navbar_logo h1{
+  padding-left:50px;
+  }
+  .navbar_link{
+    margin-left:550px;
+  }
+  .a_link a{
+    padding-left:45px;
+  }
+  /* Introduction media css */
+  .introduction{
+    width:1199px;
+  }
+  .introduction_img{
+padding-left:100px;
+padding-top:50px;
+  }
+  .introduction_text{
+    padding:230px 120px;
+  }
+  .special_text{
+  font-size:40px;
+}
+.not_special{
+font-size:30px;
+}
+/* Project media css */
+.projects{
+  width:1199px;
+}
+/* All projects media css */
+.all_project{
+  width:1199px;
+background-color:#003251;
+  grid-template-columns:1fr 1fr fr;
+padding:70px 0px;
+}
+.github_project{
+  width:60%;
+}
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media(min-width:1200px) and (max-width:1399.98px){
+
+}
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media(min-width:1400px){
+
+}
