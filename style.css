@@ -2,9 +2,13 @@
   margin:0;
   padding:0;
 }
-.body{
-  font-family:serif;
-}
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+ 
+body{
+font-family: "Open Sans", sans-serif;
+} 
+
 /* Navbar CSS */
 .navbar{
   background-color:#0089B7;
@@ -61,7 +65,7 @@ padding:230px 120px;
 }
 .special_text{
   color:white;
-  font-size:50px;
+  font-size:45px;
 }
 .not_special{
 color:white;

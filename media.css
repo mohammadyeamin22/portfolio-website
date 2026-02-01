@@ -20,8 +20,7 @@ width:575px;
   }
   .introduction_text{
     background-color:#003D62;
-    width:334px;
-    padding:80px 120px;
+    padding:80px 100px;
   }
   .special_text{
   font-size:30px;
@@ -121,7 +120,7 @@ padding-left:100px;
 padding-top:50px;
   }
   .introduction_text{
-    padding:230px 30px;
+    padding:230px 16px;
   }
   .special_text{
   font-size:40px;
